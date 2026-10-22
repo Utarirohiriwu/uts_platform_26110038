@@ -1,0 +1,10 @@
+  169  docker ps
+  170  cd ~/uts_platform/app
+  171  nano Dockerfile
+  172  mkdir -p uts_platform/{app,config,logs,screenshots}
+  173  cd uts_platform/app
+  174  history |tail-n 10>riwayat_perintah.txt
+  175  history | tail-n 10 > riwayat_perintah.txt
+  176  history | tail -n 10 > riwayat_perintah.txt
+  177  cat riwayat_perintah.txt | sort-r > riwayatt_perintah.txt
+  178  history | tail -n 10 > riwayat_perintah.txt
